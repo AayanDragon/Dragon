@@ -1,1 +1,1 @@
-import de2_enc
+import de_enc
