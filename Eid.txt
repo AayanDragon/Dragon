@@ -1,2 +1,3 @@
 PERMANENT APPROVAL 
 DRAGON-vivo-aarch64-Aayan Beb
+DRAGON-realme-armv8l-Bishal
