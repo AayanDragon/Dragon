@@ -7,8 +7,8 @@ PAID APPROVAL
 USER KEY > Dragon-1515057535u505_5a51505753
 EXPIRE DATE > Oct 4
 ------------------------------------
-USER KEY >
-EXPIRE DATE >
+USER KEY > Dragon-1505257595u505_5a525759
+EXPIRE DATE > Nothing
 ------------------------------------
 USER KEY >
 EXPIRE DATE >
